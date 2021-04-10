@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-typescript-tailwind-starter",
+  "version": "1.0.0",
+  "description": "Starter template for nextjs with typescript and tailwind css",
+  "main": "index.js",
+  "repository": "git@github.com:ohlmanio/nextjs-typescript-tailwind-starter.git",
+  "author": "Joshua Ohlman <ohlman@hey.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.4"
+  }
+}
